@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <aplicacionesweb>
+        <aplicacion codi="001">
+            <nombre>Netflix</nombre>
+            <descripcion>plataforma en línea o servicio de VOD (video bajo demanda, por sus siglas en inglés) por streaming</descripcion>
+            <tipo>Videoclub</tipo>
+            <fabricante>Netflix inc</fabricante>
+        </aplicacion>
+        <aplicacion codi="002">
+            <nombre>twitter</nombre>
+            <descripcion>SMS de Internet</descripcion>
+            <tipo>Red social</tipo>
+            <fabricante>Jack Dorsey</fabricante>
+        </aplicacion>
+        <aplicacion codi="003">
+            <nombre>Facebook</nombre>
+            <descripcion>Plataforma que funciona sobre una infraestructura de computación basada principal y totalmente en sistemas GNU/Linux, usando el conjunto de tecnologías LAMP, entre otras.</descripcion>
+            <tipo>Red social</tipo>
+            <fabricante>Mark Zuckerberg</fabricante>
+        </aplicacion>
+        <aplicacion codi="004">
+            <nombre>Whatsapp</nombre>
+            <descripcion>Mensajeria gratuita instantanea</descripcion>
+            <tipo>Mensajeria</tipo>
+            <fabricante>Brian Acton y Jan Koum</fabricante>
+        </aplicacion>
+        <aplicacion codi="005">
+            <nombre>Twitch</nombre>
+            <descripcion>Streaming multiplataforma</descripcion>
+            <tipo>Streaming</tipo>
+            <fabricante>Amazon inc</fabricante>
+        </aplicacion>
+        <aplicacion codi="006">
+            <nombre>Reddit</nombre>
+            <descripcion>sitio web de marcadores sociales y agregador de noticias donde los usuarios pueden añadir texto, imágenes, vídeos o enlaces</descripcion>
+            <tipo>Foro</tipo>
+            <fabricante>Steve Huffman</fabricante>
+        </aplicacion>
+        <aplicacion codi="007">
+            <nombre>Spotify</nombre>
+            <descripcion>Reproductor de música gratiuto o de pago, streamings o podcasts</descripcion>
+            <tipo>Reproductor de música</tipo>
+            <fabricante>Spotify LTD</fabricante>
+        </aplicacion>
+        <aplicacion codi="008">
+            <nombre>Instagram</nombre>
+            <descripcion>Red social basada en subir fotos y videos</descripcion>
+            <tipo>Red social</tipo>
+            <fabricante>Facebook</fabricante>
+        </aplicacion>
+        <aplicacion codi="009">
+            <nombre>Google Maps</nombre>
+            <descripcion>Mapa global con geolocalizador</descripcion>
+            <tipo>Mapa</tipo>
+            <fabricante>Google</fabricante>
+        </aplicacion>
+        <aplicacion codi="010">
+            <nombre>Amazon</nombre>
+            <descripcion>Tienda online</descripcion>
+            <tipo>Tienda</tipo>
+            <fabricante>Jeff Bezos</fabricante>
+        </aplicacion>
+    </aplicacionesweb>
